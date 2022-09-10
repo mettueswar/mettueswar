@@ -1,4 +1,4 @@
-<h1>Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif">
+<h1>Hey <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
 , I'm Eswar Mettu!</h1>
 
 <h2>About Me 🚀</h2>
