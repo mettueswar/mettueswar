@@ -1,7 +1,7 @@
-<h1>Hey <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
-, I'm Eswar Mettu!</h1>
+<h2>Hey <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
+, I'm Eswar Mettu!</h2>
 
-<h2>About Me 🚀</h2>
+<h3>About Me 🚀</h3>
 🎓 I’m an Open-Source enthusiast.<br/>
 👨‍💻 I am passionate about Web, Mobile Application Development & I enjoy learning new things.
 
